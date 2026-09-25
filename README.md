@@ -4,7 +4,7 @@ ASP.NET Core MVC Web Application by .NET 10 serving CRUD of Employees towards a 
 
 Last updated
 
-- 03-06-2026
+- 25-09-2026
 
 # Create a global json
 
